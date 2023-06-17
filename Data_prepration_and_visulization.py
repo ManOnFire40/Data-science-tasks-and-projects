@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-
+#Data prepration
 
 dataset=pd.read_csv('drug200.csv')
 #A
